@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Biblioteca UPN</string>
+    <string name="carLblMensaje">Cargando Biblioteca Virtual...</string>
+    <string name="logTxtCorreo">Correo</string>
+    <string name="logTxtClave">Contraseña</string>
+    <string name="logChkRecordar">Recordar</string>
+    <string name="logBtnInciar">Iniciar Sesión</string>
+    <string name="logBtnSalir">Salir</string>
+    <string name="logLblRegistro">Registro</string>
+    <string name="UNO">Ingrese un correo UPN</string>
+    <string name="logLblBienvenida">Bienvenido a la Universidad Privada del Norte. Para continuar,
+    por favor ingresa con tu cuenta de correo electrónico de la universidad y tu contraseña</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="frgMasPreferencias">Preferencias</string>
+    <string name="frgMasCbxNotificaciones">Notificaciones</string>
+    <string name="frgMasCbxSonido">Sonido</string>
+    <string name="frgMasBtnGuardar">Guardar</string>
+    <string name="frgMasBtnCerrarSesion">Cerrar Sesión</string>
+    <string name="buscar">Buscar...</string>
+    <string name="frgLblEstanteria">Estantería</string>
+    <string name="frgLblEstanteriaVacia">No tiene títulos en su estantería</string>
+    <string name="frgMasSugerencias">Sugerencias</string>
+    <string name="frgMasAyuda">Ayuda</string>
+    <string name="frgMasAcerca">Acerca De</string>
+    <string name="frmListasVacia">No tiene listas</string>
+    <string name="frgListas">Listas</string>
+    <string name="frgLoginAcceder">¿No puedes acceder a tu cuenta?</string>
+    <string name="frgBuscarBtnBuscar">Buscar</string>
+    <string name="itcLblTitulo">Titulo</string>
+    <string name="itcLblAutor">Autor</string>
+    <string name="itcLblAño">Año</string>
+    <string name="itcLblGenero">Género</string>
+    <string name="itcLblIdioma">Idioma</string>
+    <string name="frgBusLbLResultados">Resultados de la Busqueda</string>
+    <string name="frgBuscarTintAutoComplete">Buscar Libro ...</string>
+    <string name="frgMasLblAjustes">Ajustes</string>
+    <string name="frgBusLblBusqueda">Busqueda</string>
+    <string name="terms_conditions">
+        1. Aceptación de los Términos\n
+        \n
+        \tAl acceder y utilizar nuestra aplicación, usted acepta cumplir con los presentes términos y condiciones de uso. Si no está de acuerdo con estos términos, por favor no utilice la aplicación.\n
+        \n
+        2. Uso de la Aplicación\n
+        \n
+        \tLa aplicación se proporciona tal cual y según disponibilidad. No garantizamos que la aplicación estará disponible en todo momento ni que será libre de errores.\n
+        \n
+        \tUsted es responsable de mantener la confidencialidad de sus credenciales de acceso y de cualquier actividad que ocurra bajo su cuenta.\n
+        \n
+        3. Privacidad\n
+        \n
+        \tNos comprometemos a proteger su privacidad. Nuestra política de privacidad describe cómo recopilamos, utilizamos y protegemos sus datos personales.\n
+       \n
+        4. Propiedad Intelectual\n
+        \n
+        \tTodos los derechos de propiedad intelectual sobre la aplicación y su contenido son propiedad nuestra o de nuestros licenciantes. Usted no está autorizado a copiar, modificar, distribuir, vender o alquilar ninguna parte de la aplicación sin nuestro permiso previo por escrito.\n
+        \n
+        5. Limitación de Responsabilidad\n
+        \tEn la medida permitida por la ley, no seremos responsables de ningún daño indirecto, incidental, especial, consecuente o punitivo, ni de ninguna pérdida de ingresos, ganancias, datos o uso que resulte de su uso de la aplicación.\n
+        \n
+        6. Modificaciones de los Términos\n
+       \n
+        \tNos reservamos el derecho de modificar estos términos en cualquier momento. Le notificaremos sobre cualquier cambio importante y le proporcionaremos la versión actualizada de los términos y condiciones.\n
+        \n
+        7. Ley Aplicable y Jurisdicción\n
+        \n
+        \tEstos términos se rigen por las leyes del país donde operamos y cualquier disputa será resuelta en los tribunales de dicha jurisdicción.
+    </string>
+    <string name="frgBusLblSedes">Sedes</string>
+    <string name="frgTerConAceptar">Aceptar terminos y condiciones.</string>
+    <string name="frgMasAcercaDeTexto">Esto es una Biblioteca Virtual creada por los estudiantes de Ingeniería de Sistemas Computacionales.</string>
+    <string name="frgMasAcercaDeCerrar">Cerrar</string>
+</resources>

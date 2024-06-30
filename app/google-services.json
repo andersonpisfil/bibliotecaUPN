@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659900637921",
+    "project_id": "bibliotecaupn-9e5c3",
+    "storage_bucket": "bibliotecaupn-9e5c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659900637921:android:3f39cf2e738d3fae9d4da0",
+        "android_client_info": {
+          "package_name": "com.example.upnbiblioteca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUidarYJanqGAd_zsFvrgh4oDOUUnvOk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
